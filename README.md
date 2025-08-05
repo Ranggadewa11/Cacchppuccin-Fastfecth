@@ -1,4 +1,4 @@
-<h1 align="center">Cachppuccin Catppuccin Fastfetch</h1>
+<h1 align="center">Cachppuccin CachyOS Catppuccin Fastfetch</h1>
 A Fasfetch of CachyOS for you guys that likes catppuccin a lotttt 
 
 ![Pripiuw Cachppuccin](https://raw.githubusercontent.com/Ranggadewa11/Cacchppuccin-Fastfecth/refs/heads/main/Pripiuw.png)
